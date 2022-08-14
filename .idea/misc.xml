@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Studio/Game1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Game1/app/src/main/res/layout/activity_model_answer.xml" value="0.11302083333333333" />
+        <entry key="..\:/Android Studio/Game1/app/src/main/res/menu/menu.xml" value="0.11302083333333333" />
         <entry key="..\:/Android Studio/Game1/app/src/main/res/menu/optional_menu.xml" value="0.25416666666666665" />
         <entry key="..\:/Game1/app/src/main/res/drawable/ic_baseline_refresh_24.xml" value="0.2657407407407407" />
         <entry key="..\:/Game1/app/src/main/res/layout/activity_main.xml" value="0.264" />
