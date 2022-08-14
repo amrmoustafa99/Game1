@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Search"
+        android:id="@+id/Search"
+        android:icon="@drawable/refresh_arrow"
+        />
+
+    <item
+        android:title="Notification"
+        android:id="@+id/Notification"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        />
+
+    <item
+        android:title="logout"
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        />
+</menu>
